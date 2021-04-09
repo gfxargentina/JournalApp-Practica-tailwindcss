@@ -1,6 +1,6 @@
 # Practica Journal App
 
-Conceptos Practicados: SASS,Diseño completo de la aplicación de forma manual, Uso de funciones de SASS,    Configuración y uso de parciales, Transiciones en SASS.-Curso de Fernando Herrera Hooks y MERN .
+Conceptos Practicados: Convertir el diseño con TailwindCSS
 
 ## Available Scripts
 
